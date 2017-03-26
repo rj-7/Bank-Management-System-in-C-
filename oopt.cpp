@@ -674,7 +674,7 @@ int account::check(int n)
 void intro()
 {
     cout<<"\n\t\t BANK MANAGEMENT SYSTEM";
-    cout<<"\nMADE BY : Avinash S Devdhar(15Co210)\tRakshith J(15co237)\tShivananda D(15co148)";
+    cout<<"\nMADE BY :)\tRakshith J\t";
     cin.get();
 }
 
